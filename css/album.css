@@ -1,0 +1,28 @@
+body {
+	
+	
+	background-position:center;
+	background-repeat: no-repeat;
+}
+header {
+	background-color: white;
+}
+.img-fluid {
+	height: 100%;
+}
+
+.list-group-item:hover {
+	outline:4px solid #ffdb4b;
+	z-index: 1;
+}
+
+.progress {
+	width: 100%;
+	max-width: 400px;
+
+}
+
+.name-track {
+	max-width: 60px;
+	margin-right: 25px;
+}

@@ -1,0 +1,14 @@
+
+.card-image-top{
+	height: 175px;
+	object-fit: cover;
+}
+
+.albums .card:hover {
+	outline:4px solid #ffdb4b;
+}
+
+.albums a{
+	color:#14181EFF;
+}
+
